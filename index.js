@@ -18,3 +18,5 @@ function johnLennonFacts(facts) {
 
   return shoutedFacts;
 }
+
+function 
